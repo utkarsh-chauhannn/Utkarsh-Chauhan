@@ -1,4 +1,5 @@
 # Utkarsh-Chauhan
+![logo](https://media.licdn.com/dms/image/D4D16AQEGxJY-1mII_Q/profile-displaybackgroundimage-shrink_350_1400/0/1698417171533?e=1715212800&v=beta&t=LmIqAhyVy7K_rXJsBSI6VTDuRx1FDbQX0NQ6ztan7Zw)
 <h1 align="center">Hi 👋, I'm Utkarsh Chauhan</h1>
 <h3 align="center">A passionate developer</h3>
 <img align="right" alt="coding" width="400" src=https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif>
