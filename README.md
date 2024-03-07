@@ -1,7 +1,7 @@
 # Utkarsh-Chauhan
 <h1 align="center">Hi 👋, I'm Utkarsh Chauhan</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+<img align="right" alt="coding" width="400" src=https://th.bing.com/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&w=315&h=198&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2
 
 
 - 🔭 I’m currently working on **Some projects**
